@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Systems and Computing Engineering** student at *Universidad Antonio Nariño*, certified as a Junior Programmer by the same institution. I don't just write code to make it run, I write it to make it **right**. Clean logic, real projects, and the hours to back it up.
+I'm a **Systems and Computing Engineering** student at *Antonio Nariño University*, certified as a Junior Programmer by the same institution. I don't just write code to make it run, I write it to make it **right**. Clean logic, real projects, and the hours to back it up.
 
 - Currently studying Systems & Computing Engineering
 - Junior Programming Certificate — Universidad Antonio Nariño
