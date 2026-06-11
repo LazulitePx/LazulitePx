@@ -1,16 +1,4 @@
-<div align="center">
-<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6C63FF"/>
-      <stop offset="100%" style="stop-color:#3ECFCF"/>
-    </linearGradient>
-  </defs>
-  <rect width="600" height="120" rx="12" fill="url(#g)"/>
-  <text x="300" y="52" font-family="monospace" font-size="28" font-weight="bold" fill="white" text-anchor="middle">Joseph Arevalo</text>
-  <text x="300" y="85" font-family="monospace" font-size="14" fill="rgba(255,255,255,0.85)" text-anchor="middle">Systems &amp; Computing Engineering · Backend · Mobile</text>
-</svg>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Joseph+%F0%9F%91%8B;Systems+%26+Computing+Engineering+Student;Backend+%26+Mobile+Developer;Always+building%2C+always+learning)](https://git.io/typing-svg)
 
 ---
 
