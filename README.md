@@ -1,16 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Joseph+%F0%9F%91%8B;Systems+%26+Computing+Engineering+Student;Backend+%26+Mobile+Developer;Always+building%2C+always+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Joseph+%F0%9F%91%8B;Systems+%26+Computing+Engineering+Student;Backend+%26+Mobile+Developer;Always+building%2C+always+learning)](https://git.io/typing-svg)
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **Systems and Computing Engineering** student at *Universidad Antonio Nariño*, with a **Junior Programming Certificate** issued by the same institution. I enjoy turning ideas into real software — whether that's a clean backend API or a native mobile app.
+I'm a **Systems and Computing Engineering** student at *Universidad Antonio Nariño*, certified as a Junior Programmer by the same institution. I don't just write code to make it run, I write it to make it **right**. Clean logic, real projects, and the hours to back it up.
 
-- 🎓 Currently studying Systems & Computing Engineering
-- 🏅 Junior Programming Certificate — Universidad Antonio Nariño
-- 🔭 Exploring backend architectures and mobile development
-- 🧩 Firm believer that good code is readable code
-- 💬 Ask me about Java, Spring Boot, or Android development
+- Currently studying Systems & Computing Engineering
+- Junior Programming Certificate — Universidad Antonio Nariño
+- Exploring backend architectures and mobile development
+- Actively looking for my first professional opportunity
+- Ask me about Java, Spring Boot, or Android development
 
 ---
 
@@ -41,11 +41,7 @@ I'm a **Systems and Computing Engineering** student at *Universidad Antonio Nari
 
 <div align="center">
 
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LazulitePx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LazulitePx&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LazulitePx&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
@@ -66,6 +62,6 @@ I'm a **Systems and Computing Engineering** student at *Universidad Antonio Nari
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
-![Profile Views](https://visitcount.itsvg.in/api?id=LazulitePx&icon=6&color=9)
+![Profile Views](https://komarev.com/ghpvc/?username=LazulitePx&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
 </div>
